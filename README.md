@@ -10,6 +10,6 @@ This is a song search engine, written in PHP, that you can add to your code, it 
 
 ```Google Console```
 
-[Sobre el Plugin](https://console.cloud.google.com/)
+[Create your API](https://console.cloud.google.com/)
 
 
